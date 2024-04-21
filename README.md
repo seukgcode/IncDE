@@ -78,7 +78,7 @@ If you find this method or code useful, please cite
 @inproceedings{liu2024towards,
   title={Towards Continual Knowledge Graph Embedding via Incremental Distillation},
   author={Liu, Jiajun and Ke, Wenjun and Wang, Peng and Shang, Ziyu and Gao, Jinhua and Li, Guozheng and Ji, Ke and Liu, Yanhe},
-  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  booktitle={AAAI},
   year={2024}
 }
 ```
