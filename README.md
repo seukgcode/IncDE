@@ -1,6 +1,6 @@
 # IncDE
 
-The codes and datasets for "Towards Continual Knowledge Graph Embedding via Incremental Distillation" [AAAI 2024].
+The codes and datasets for "[Towards Continual Knowledge Graph Embedding via Incremental Distillation](https://ojs.aaai.org/index.php/AAAI/article/view/28722)" [AAAI 2024].
 
 ## Framework
 
